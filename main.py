@@ -18,4 +18,4 @@ if __name__ == '__main__':
     # key_file = os.path.join(current_dir, 'certs', 'key.pem')
     # ssl_context.load_cert_chain(certfile=cert_file, keyfile=key_file)
     # app.run(ssl_context=ssl_context, host='0.0.0.0', port=8000)
-    app.run(debug=False, host='0.0.0.0', port=10000)
+    app.run(debug=False, host='0.0.0.0', port=8000)
