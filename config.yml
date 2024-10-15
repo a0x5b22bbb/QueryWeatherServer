@@ -1,0 +1,10 @@
+# 作为coding test使用, 上传到Git
+API_KEY: 'ce8361afb5a64d8e9e77b99234c111fd'
+API_URL: 'https://devapi.qweather.com/v7/weather/now'
+
+
+
+## 最大访问次数
+#MAX_GLOBAL_REQUESTS: 900 # 风向api 默认每天最大1000个
+## 访问次数重置时间（秒）
+#TIME_WINDOW: 86400 # 24 hour
