@@ -15,10 +15,15 @@
 启动方法: 
 
 sudo apt update
+
 sudo apt upgrade -y
+
 sudo apt install python3 python3-pip -y
+
 sudo apt install python3-venv -y
+
 python3 -m venv venv
+
 source venv/bin/activate
 
 ### 如果可以 使用 git pull 
